@@ -31,3 +31,8 @@
 - [인공지능(CSE4007)](https://github.com/frechele/CSE4007) - 김은솔 교수님
 
 ## 4학년 (WIP)
+### 1학기
+- [데이터사이언스(ITE4005)](https://github.com/frechele/ITE4005) - 채동규 교수님
+- [딥러닝및응용(ITE4053)](https://github.com/frechele/ITE4053) - 김태현 교수님
+- [컴퓨터소프트웨어캡스톤PBL(PBL4001)](https://github.com/frechele/PBL4001) - 임을규 교수님
+- [인간컴퓨터상호작용(ITE3062)](https://github.com/frechele/ITE3062) - 김광욱 교수님
