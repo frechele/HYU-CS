@@ -36,3 +36,6 @@
 - [딥러닝및응용(ITE4053)](https://github.com/frechele/ITE4053) - 김태현 교수님
 - [컴퓨터소프트웨어캡스톤PBL(PBL4001)](https://github.com/frechele/PBL4001) - 임을규 교수님
 - [인간컴퓨터상호작용(ITE3062)](https://github.com/frechele/ITE3062) - 김광욱 교수님
+
+### 2학기
+- [병렬프로그래밍(ITE4065)](https://github.com/frechele/ITE4065) - 정형수 교수님
