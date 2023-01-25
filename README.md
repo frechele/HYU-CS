@@ -30,7 +30,7 @@
 - [수치해석(MAT3008)](https://github.com/frechele/MAT3008) - 박종일 교수님
 - [인공지능(CSE4007)](https://github.com/frechele/CSE4007) - 김은솔 교수님
 
-## 4학년 (WIP)
+## 4학년
 ### 1학기
 - [데이터사이언스(ITE4005)](https://github.com/frechele/ITE4005) - 채동규 교수님
 - [딥러닝및응용(ITE4053)](https://github.com/frechele/ITE4053) - 김태현 교수님
